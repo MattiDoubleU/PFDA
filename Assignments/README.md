@@ -1,5 +1,5 @@
 # This is the repository for the weekly assignments for the Programming for Data Analytics module.
-## Assignment description copied from the course page: https://vlegalwaymayo.atu.ie/course/view.php?id=10462#section-2
+Assignment description copied from the course page: https://vlegalwaymayo.atu.ie/course/view.php?id=10462#section-2
 
 ## Assignment 1:
 
