@@ -9,8 +9,10 @@ You have a Choice of the format of your repositories, Either:
 
 - One repository with three folders (assignments, mywork, project). Make sure you submit a link to the appropriate folder.
 - Three separate repositories (PFDA-assignments, PFDA-mywork, PFDA-project). Make sure you submit a link to the appropriate repository
+
+Summary: tba
 	
-## Assignment 2 weather:
+## Assignment 2 Weather:
 
 - Task 1: Commit something to your assignment repository this week (anything)
 
@@ -27,7 +29,9 @@ Marks will be give for:
 
 You may use PANDAS if you wish to read in the data
 
-## Assignment 3 domains:
+Summary: tba
+
+## Assignment 3 Domains:
 
 Create a notebook called assignment03-pie.ipynb
 
@@ -45,4 +49,41 @@ Marks will be given for:
 
 As always your code should be well laid out.
 
-If you are having difficulties, know I will be doing more on Pie charts later in this module.
+Summary: tba
+
+## Assignment 5 Risk:
+
+Write a program (or notebook) called assignment_5_risk (.py or .ipynb)
+
+The program should simulates 1000 individual battle rounds in Risk (3 attacker vs 2 defender) and plots the result.
+
+One battle round is one shake of the attacker and defender dice.
+
+I am being vague about what it plot, I will leave that to you.
+
+For the last few marks.
+
+A more complicated version simulates a full series of rounds for armies of arbitrary sizes, until one side is wiped out,
+
+and plots the results.
+
+(This is open ended, so it is only for the last few marks)
+
+Rules of Risk
+
+In Risk one army fights another. (using 6 sided dice)
+
+In each battle round, the attacker can put forward up to three of their troops (3 dice).
+
+The defender can use up to two of their defending troops (2 dice).
+
+Each side looses troops depending on the following rules:
+
+1. The two top dice dice are compared (ie the attackers top dice roll with the defenders top dice   roll) 
+    - If the attackers dice is the same or lower they loose one troop otherwise the defender looses a troop (ie if the attackers dice is higher)
+2. The next two highest dice from each side are then compared (ie the attackers second highest to the defenders second highest)
+    - If the attackers dice is the same or lower they loose one troop otherwise the defender looses a troop (ie if the attackers dice is higher)
+
+Summary: tba
+
+
