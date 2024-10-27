@@ -86,4 +86,7 @@ Each side looses troops depending on the following rules:
 
 Summary: tba
 
+https://matplotlib.org/stable/users/explain/animations/animations.html
+https://stackoverflow.com/questions/72654607/userwarning-animation-was-deleted-without-rendering-anything
+
 
