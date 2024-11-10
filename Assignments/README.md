@@ -89,4 +89,36 @@ Summary: tba
 https://matplotlib.org/stable/users/explain/animations/animations.html
 https://stackoverflow.com/questions/72654607/userwarning-animation-was-deleted-without-rendering-anything
 
+## Assignment 6 Knock airport Weather:
+
+Create a python file or notebook called assignment_6_Weather (.py or .ipynb)
+
+Get the data from this link.
+
+https://cli.fusio.net/cli/climate_data/webdata/hly4935.csv
+
+(This is different that the data I used in the lecture)
+
+Plot:
+
+- The temperature
+- The mean temperature each day
+- The mean temperature for each month
+
+60% of the marks will be given for the above
+
+For the last 40%
+
+Plot:
+
+- The Windspeed (there is data missing from this column)
+- The rolling windspeed (say over 24 hours)
+- The max windspeed for each day
+- The monthly mean of the daily max windspeeds (yer I am being nasty here)
+
+You do not need to over comment your code. Marks will be given for how nice the plots are.
+
+Summary: tba
+
+https://www.statology.org/seaborn-plot-multiple-lines/
 
