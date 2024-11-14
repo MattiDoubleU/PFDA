@@ -121,4 +121,9 @@ You do not need to over comment your code. Marks will be given for how nice the 
 Summary: tba
 
 https://www.statology.org/seaborn-plot-multiple-lines/
+https://www.dataquest.io/blog/tutorial-time-series-analysis-with-pandas/
+https://stackoverflow.com/questions/21030171/how-get-monthly-mean-in-pandas-using-groupby
+https://www.slingacademy.com/article/pandas-mastering-dataframe-groupby-method-8-examples/
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.set_index.html
+https://stackoverflow.com/questions/20625582/how-to-deal-with-settingwithcopywarning-in-pandas
 
