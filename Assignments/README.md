@@ -142,7 +142,7 @@ Plot:
 
 You do not need to over comment your code. Marks will be given for how nice the plots are.
 
-Summary: For this assignment I used the Seaborn library alongside PANDAS and Matplotlib.
+Summary: For this assignment I used the Seaborn library which I haven't used for any of the previous assignments alongside PANDAS and Matplotlib. I have probably over complicated some of the code as I was trying to finish the task well ahead of time and before the lectures of that particular week. For this reason there are two type of plots, the ones that display each of the years in an individual color coded line and the ones with a single line and the dots or a scatter plot with a linear regression line. I simply adapted the lecturer's code from the lab in week 7 for those. The key take away for the first part **Temperature** was to correctly use ```df.groupby()``` a tool to calculate summary statistics like mean, sum, min, max, etc.
 
 https://www.statology.org/seaborn-plot-multiple-lines/
 https://www.dataquest.io/blog/tutorial-time-series-analysis-with-pandas/
