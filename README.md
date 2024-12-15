@@ -1,4 +1,4 @@
-<img src="https://studenthub.atu.ie/assets/ATU_Logo.fa93bf0a.svg" alt="ATU Logo" width="300" height="100">
+<img src="https://www.atu.ie/app/themes/atu-theme/assets/main/img/layout/logo-full-accent.svg" alt="ATU Logo" width="300" height="100">
 
 # PFDA - Programming for Data Analytics
 
