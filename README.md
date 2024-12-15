@@ -1,4 +1,4 @@
-<img src="https://vlegalwaymayo.atu.ie/pluginfile.php/1/core_admin/logo/0x200/1732869410/ATU-Logo-Initial-English-RGB-White.png" alt="ATU Logo" width="300" height="100">
+<img src="https://studenthub.atu.ie/assets/ATU_Logo.fa93bf0a.svg" alt="ATU Logo" width="300" height="100">
 
 # PFDA - Programming for Data Analytics
 
