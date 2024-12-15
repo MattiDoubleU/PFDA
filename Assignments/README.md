@@ -17,7 +17,7 @@ Summary: I have opted for the first choice. Initially I was struggling with the 
 
 https://stackoverflow.com/questions/29249134/how-to-create-new-subfolder-in-git-repository
 	
-## Assignment 2 Weather:
+## Assignment 2 - Weather:
 
 - Task 1: Commit something to your assignment repository this week (anything).
 
@@ -42,7 +42,7 @@ https://stackoverflow.com/questions/36692861/avoiding-error-from-pd-to-datetime-
 https://matplotlib.org/stable/api/_as_gen/matplotlib.figure.Figure.autofmt_xdate.html
 https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.set_major_formatter.html
 
-## Assignment 3 Domains:
+## Assignment 3 - Domains:
 
 Create a notebook called assignment03-pie.ipynb.
 
@@ -70,7 +70,7 @@ https://www.freecodecamp.org/news/how-to-split-a-string-in-python/
 https://docs.python.org/3/tutorial/datastructures.html#more-on-lists
 https://matplotlib.org/stable/gallery/pie_and_polar_charts/pie_features.html
 
-## Assignment 5 Risk:
+## Assignment 4 - Risk:
 
 Write a program (or notebook) called assignment_5_risk (.py or .ipynb)
 
@@ -113,7 +113,7 @@ https://stackoverflow.com/questions/72654607/userwarning-animation-was-deleted-w
 https://numpy.org/doc/stable/reference/generated/numpy.bincount.html
 https://numpy.org/doc/stable/reference/generated/numpy.arange.html
 
-## Assignment 6 Knock airport Weather:
+## Assignment 5 - Knock airport Weather:
 
 Create a python file or notebook called assignment_6_Weather (.py or .ipynb).
 
