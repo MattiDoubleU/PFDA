@@ -7,11 +7,19 @@ Initially, I was going to do a project on aviation but struggled to find usable 
 There are some aviation datasets available on [Kaggle](https://www.kaggle.com/) a brilliant platform for incipient data analysts but after all I decided to do the project on Irish weather data since we so often talk about the weather here in Ireland due to its erratic nature. As the saying goes: “If in the sky you see cliffs and towers, it won’t be long before there is a shower.” 
 
 
+Major key take aways:
 
+Windspeed vs. Rainfall:
 
+The correlation coefficient of 0.47 indicates a moderate positive correlation windspeed and rainfall. This means as windspeed increases, rainfall also tends to increase but while while there is some degree of association between windspeed and rainfall, other factors likely influence the relationship as well. In this case a correlation of 0.47 suggests that higher windspeed tend to be somewhat associated with increased precipitation, but this is not a strong or definitive relationship.
 
+Windspeed vs. Mean Temperature:
 
+The correlation coefficient of -0.43 indicates a moderate negative correlation between windspeed and mean temperature. A negative correlation means that as one variable increases, the other tends to decrease or in other words, there’s an inverse relationship between the two variables. This value suggests that while there is a noticeable relationship, it is not particularly strong or perfectly linear. A correlation of -0.43 might imply that higher temperatures are generally associated with lower windspeed, but with some variability.
 
+Rainfall vs. Mean Temperature:
+
+The correlation coefficient of -0.13 indicates a very weak negative correlation between windspeed and mean temperature. Since the value of -0.13 is close to zero, it suggests that the relationship between the two variables is minimal or negligible what means that changes in one variable are not strongly associated with changes in the other. In this case it might imply a very slight tendency for higher rainfall to be associated with lower temperatures, but the effect is so weak that it may not be practically meaningful.
 
 
 
@@ -30,6 +38,20 @@ Ireland’s future weather will be even warmer and wetter than predicted, scient
 
 https://www.irishtimes.com/environment/climate-crisis/2025/01/03/ireland-will-be-warmer-and-wetter-than-predicted-due-to-climate-disruption-scientists-warn/
 
+The Beast from the East:
+
+This day last year it was 18 degrees colder as Beast from the East struck
+
+https://www.irishtimes.com/news/ireland/irish-news/this-day-last-year-it-was-18-degrees-colder-as-beast-from-the-east-struck-1.3809900
+
+The 'Beast from the East': Everything you need to know as Ireland prepares for Siberian freeze:
+
+https://www.independent.ie/irish-news/the-beast-from-the-east-everything-you-need-to-know-as-ireland-prepares-for-siberian-freeze/36641136.html
+
+On the correlation coefficient:
+
+https://statisticsbyjim.com/basics/correlations/
+
 Regarding the code I have mostly refered to the documentation of the libraries used in the project as well as code we covered in this module's as well as previous module's lecture: 
 
 https://github.com/andrewbeattycourseware/pands-course-material
@@ -40,8 +62,6 @@ https://github.com/andrewbeattycourseware/PFDA-courseware/tree/main
 Additional sources:
 
 https://www.geeksforgeeks.org/rainfall-prediction-using-machine-learning-python/
-
-
 
 
 
