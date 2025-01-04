@@ -23,10 +23,23 @@ I have used the following sources to complete the project:
 
 https://www.twinkl.ie/blog/10-common-irish-weather-phrases
 
+
+Annual Climate Statement 2018: https://cli.fusio.net/cli/bulletin/data/2018/17/sum_172018.pdf
+
+Ireland’s future weather will be even warmer and wetter than predicted, scientists warn:
+
+https://www.irishtimes.com/environment/climate-crisis/2025/01/03/ireland-will-be-warmer-and-wetter-than-predicted-due-to-climate-disruption-scientists-warn/
+
 Regarding the code I have mostly refered to the documentation of the libraries used in the project as well as code we covered in this module's as well as previous module's lecture: 
 
 https://github.com/andrewbeattycourseware/pands-course-material
 https://github.com/andrewbeattycourseware/PFDA-courseware/tree/main
+
+
+
+Additional sources:
+
+https://www.geeksforgeeks.org/rainfall-prediction-using-machine-learning-python/
 
 
 
