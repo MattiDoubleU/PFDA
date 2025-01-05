@@ -6,8 +6,10 @@ Initially, I was going to do a project on aviation but struggled to find usable 
 
 There are some aviation datasets available on [Kaggle](https://www.kaggle.com/) a brilliant platform for incipient data analysts but after all I decided to do the project on Irish weather data since we so often talk about the weather here in Ireland due to its erratic nature. As the saying goes: “If in the sky you see cliffs and towers, it won’t be long before there is a shower.” 
 
+As of January 5, 2025, data for December 2024 was still unavailable. Consequently, I chose to exclude the entire year 2024 from the analysis to ensure the most accurate results by focusing exclusively on complete years.
 
-Major key take aways:
+
+Major key takeaways:
 
 Windspeed vs. Rainfall:
 
@@ -24,10 +26,22 @@ The correlation coefficient of -0.13 indicates a very weak negative correlation 
 
 
 
+Regarding the code I have mostly refered to the documentation of the libraries used in the project as well as code we covered in this module's as well as previous module's lecture: 
+
+https://github.com/andrewbeattycourseware/pands-course-material
+https://github.com/andrewbeattycourseware/PFDA-courseware/tree/main
+
+6.1: Combining PolynomialFeatures and LinearRegression into a single model:
+
+https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.PolynomialFeatures.html
+https://stackoverflow.com/questions/69443936/sklearn-pipeline-with-standardscaler-polynomialfeatures-and-regression
 
 
 
-I have used the following sources to complete the project:
+Additional sources I have used to complete the project and to back up my analysis:
+
+
+
 
 https://www.twinkl.ie/blog/10-common-irish-weather-phrases
 
@@ -47,6 +61,13 @@ https://www.irishtimes.com/news/ireland/irish-news/this-day-last-year-it-was-18-
 The 'Beast from the East': Everything you need to know as Ireland prepares for Siberian freeze:
 
 https://www.independent.ie/irish-news/the-beast-from-the-east-everything-you-need-to-know-as-ireland-prepares-for-siberian-freeze/36641136.html
+
+
+Further readings on London climate:
+
+Climate driven trends in London's urban heat island intensity reconstructed over 70 years using a generalized additive model
+
+https://www.sciencedirect.com/science/article/pii/S2212095521002200
 
 On the correlation coefficient:
 
@@ -85,6 +106,10 @@ London Weather Data From 1979 To 2023
 
 Dataset Overview This dataset provides daily weather observations from Heathrow, United Kingdom (STAID: 1860), spanning the period from 1979 to 2023. The data is sourced from the European Climate Assessment & Dataset (ECA&D) and includes multiple weather parameters such as temperature, precipitation, sunshine, and more.
 
+
+
+Pandas Cookbook: Recipes for Scientific Computing, Time Series Analysis and Data Visualization using Python Paperback – 24 Oct. 2017
+by Theodore Petrou
 
 
 
