@@ -48,6 +48,9 @@ https://www.twinkl.ie/blog/10-common-irish-weather-phrases
 
 Annual Climate Statement 2018: https://cli.fusio.net/cli/bulletin/data/2018/17/sum_172018.pdf
 
+Annual Climate Statement 2020: https://cli.fusio.net/cli/bulletin/data/2020/17/sum_172020.pdf
+
+
 Ireland’s future weather will be even warmer and wetter than predicted, scientists warn:
 
 https://www.irishtimes.com/environment/climate-crisis/2025/01/03/ireland-will-be-warmer-and-wetter-than-predicted-due-to-climate-disruption-scientists-warn/
@@ -57,6 +60,11 @@ The Beast from the East:
 This day last year it was 18 degrees colder as Beast from the East struck
 
 https://www.irishtimes.com/news/ireland/irish-news/this-day-last-year-it-was-18-degrees-colder-as-beast-from-the-east-struck-1.3809900
+
+Storm Ellen:
+
+https://www.met.ie/cms/assets/uploads/2020/08/StormEllen-003.pdf
+
 
 The 'Beast from the East': Everything you need to know as Ireland prepares for Siberian freeze:
 
