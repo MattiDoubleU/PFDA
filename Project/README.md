@@ -45,6 +45,7 @@ Additional sources I have used to complete the project and to back up my analysi
 
 https://www.twinkl.ie/blog/10-common-irish-weather-phrases
 
+Met Éireann:
 
 Annual Climate Statement 2018: https://cli.fusio.net/cli/bulletin/data/2018/17/sum_172018.pdf
 
@@ -64,6 +65,14 @@ https://www.galway.pl/wp-content/uploads/2020/01/Met_Eireann_Weather_Summary__20
 Ireland’s future weather will be even warmer and wetter than predicted, scientists warn:
 
 https://www.irishtimes.com/environment/climate-crisis/2025/01/03/ireland-will-be-warmer-and-wetter-than-predicted-due-to-climate-disruption-scientists-warn/
+
+Predictions of Future Global Climate:
+
+https://scied.ucar.edu/learning-zone/climate-change-impacts/predictions-future-global-climate
+
+Earth shattered heat records in 2023 and 2024: is global warming speeding up?:
+
+https://www.nature.com/articles/d41586-024-04242-z
 
 The Beast from the East:
 
