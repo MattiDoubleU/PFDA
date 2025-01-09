@@ -51,6 +51,16 @@ Annual Climate Statement 2018: https://cli.fusio.net/cli/bulletin/data/2018/17/s
 Annual Climate Statement 2020: https://cli.fusio.net/cli/bulletin/data/2020/17/sum_172020.pdf
 
 
+Annual weather summary 2015:
+
+https://edepositireland.ie/bitstream/handle/2262/77499/clim-2015-ann.pdf?sequence=1&isAllowed=y
+
+
+State of Climate 2019
+
+https://www.met.ie/state-of-the-climate-2019
+https://www.galway.pl/wp-content/uploads/2020/01/Met_Eireann_Weather_Summary__2019.pdf
+
 Ireland’s future weather will be even warmer and wetter than predicted, scientists warn:
 
 https://www.irishtimes.com/environment/climate-crisis/2025/01/03/ireland-will-be-warmer-and-wetter-than-predicted-due-to-climate-disruption-scientists-warn/
