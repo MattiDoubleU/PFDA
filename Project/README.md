@@ -6,22 +6,12 @@ Initially, I was going to do a project on aviation but struggled to find usable 
 
 There are some aviation datasets available on [Kaggle](https://www.kaggle.com/) a brilliant platform for incipient data analysts but after all I decided to do the project on Irish weather data since we so often talk about the weather here in Ireland due to its erratic nature. As the saying goes: “If in the sky you see cliffs and towers, it won’t be long before there is a shower.” 
 
+For assignment 6, we analyzed weather data, which gave me the confidence to leverage that experience for this project. However, there were a few unexpected challenges along the way. The 'rain' column proved to be particularly problematic, causing recurring issues. For instance, after updating a code cell earlier in the notebook, the data type of 'rain' unexpectedly changed from 'float64' to 'object,' even though no changes were made that should have affected this column. I have yet to determine what makes the data in 'rain' so troublesome. At one point, I thought I had resolved the issue by resetting the index using df.reset_index() or by resetting and dropping the current index with df = df.reset_index(drop=True), but the problem persisted. I decided to incorporate a second dataset, selecting weather data for London to compare with data from Ireland. Upon examining and contrasting the yearly rainfall figures, it appeared that the yearly average rainfall in London was higher than in the West of Ireland—a result that is clearly inaccurate. However, the monthly rainfall figures for Ireland are accurate, as they directly reflect the values provided in the CSV file under the column 'rain'.
+
+Weather data for the West of Ireland was collected at Athenry station and downloaded as monthly time series data from: https://www.met.ie/climate/available-data/historical-data.
+
 As of January 5, 2025, data for December 2024 was still unavailable. Consequently, I chose to exclude the entire year 2024 from the analysis to ensure the most accurate results by focusing exclusively on complete years.
 
-
-Major key takeaways:
-
-Windspeed vs. Rainfall:
-
-The correlation coefficient of 0.47 indicates a moderate positive correlation windspeed and rainfall. This means as windspeed increases, rainfall also tends to increase but while while there is some degree of association between windspeed and rainfall, other factors likely influence the relationship as well. In this case a correlation of 0.47 suggests that higher windspeed tend to be somewhat associated with increased precipitation, but this is not a strong or definitive relationship.
-
-Windspeed vs. Mean Temperature:
-
-The correlation coefficient of -0.43 indicates a moderate negative correlation between windspeed and mean temperature. A negative correlation means that as one variable increases, the other tends to decrease or in other words, there’s an inverse relationship between the two variables. This value suggests that while there is a noticeable relationship, it is not particularly strong or perfectly linear. A correlation of -0.43 might imply that higher temperatures are generally associated with lower windspeed, but with some variability.
-
-Rainfall vs. Mean Temperature:
-
-The correlation coefficient of -0.13 indicates a very weak negative correlation between windspeed and mean temperature. Since the value of -0.13 is close to zero, it suggests that the relationship between the two variables is minimal or negligible what means that changes in one variable are not strongly associated with changes in the other. In this case it might imply a very slight tendency for higher rainfall to be associated with lower temperatures, but the effect is so weak that it may not be practically meaningful.
 
 
 
