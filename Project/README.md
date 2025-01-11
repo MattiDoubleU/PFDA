@@ -6,12 +6,17 @@ Initially, I was going to do a project on aviation but struggled to find usable 
 
 There are some aviation datasets available on [Kaggle](https://www.kaggle.com/) a brilliant platform for incipient data analysts but after all I decided to do the project on Irish weather data since we so often talk about the weather here in Ireland due to its erratic nature. As the saying goes: “If in the sky you see cliffs and towers, it won’t be long before there is a shower.” 
 
-For assignment 6, we analyzed weather data, which gave me the confidence to leverage that experience for this project. However, there were a few unexpected challenges along the way. The 'rain' column proved to be particularly problematic, causing recurring issues. For instance, after updating a code cell earlier in the notebook, the data type of 'rain' unexpectedly changed from 'float64' to 'object,' even though no changes were made that should have affected this column. I have yet to determine what makes the data in 'rain' so troublesome. At one point, I thought I had resolved the issue by resetting the index using df.reset_index() or by resetting and dropping the current index with df = df.reset_index(drop=True), but the problem persisted. I decided to incorporate a second dataset, selecting weather data for London to compare with data from Ireland. Upon examining and contrasting the yearly rainfall figures, it appeared that the yearly average rainfall in London was higher than in the West of Ireland—a result that is clearly inaccurate. However, the monthly rainfall figures for Ireland are accurate, as they directly reflect the values provided in the CSV file under the column 'rain'.
+For assignment 6, we analyzed weather data, which gave me the confidence to leverage that experience for this project. However, there were a few unexpected challenges along the way. The 'rain' column proved to be particularly problematic, causing recurring issues. For instance, after updating a code cell earlier in the notebook, the data type of 'rain' unexpectedly changed from 'float64' to 'object,' even though no changes were made that should have affected this column. I have yet to determine what makes the data in 'rain' so troublesome. At one point, I thought I had resolved the issue by resetting the index using `df.reset_index()` or by resetting and dropping the current index with `df = df.reset_index(drop=True)`, but the problem persisted. I decided to incorporate a second dataset, selecting weather data for London to compare with data from Ireland. Upon examining and contrasting the yearly rainfall figures, it appeared that the yearly average rainfall in London was higher than in the West of Ireland—a result that is clearly inaccurate. However, the monthly rainfall figures for Ireland are accurate, as they directly reflect the values provided in the CSV file under the column 'rain'.
 
 Weather data for the West of Ireland was collected at Athenry station and downloaded as monthly time series data from: https://www.met.ie/climate/available-data/historical-data.
 
 As of January 5, 2025, data for December 2024 was still unavailable. Consequently, I chose to exclude the entire year 2024 from the analysis to ensure the most accurate results by focusing exclusively on complete years.
 
+
+
+
+
+MLA Style
 
 
 
@@ -66,18 +71,17 @@ https://www.nature.com/articles/d41586-024-04242-z
 
 The Beast from the East:
 
-This day last year it was 18 degrees colder as Beast from the East struck
-
-https://www.irishtimes.com/news/ireland/irish-news/this-day-last-year-it-was-18-degrees-colder-as-beast-from-the-east-struck-1.3809900
 
 Storm Ellen:
 
 https://www.met.ie/cms/assets/uploads/2020/08/StormEllen-003.pdf
 
 
-The 'Beast from the East': Everything you need to know as Ireland prepares for Siberian freeze:
+Storm Emma:
 
-https://www.independent.ie/irish-news/the-beast-from-the-east-everything-you-need-to-know-as-ireland-prepares-for-siberian-freeze/36641136.html
+https://www.met.ie/cms/assets/uploads/2019/02/EmmaReport2019.pdf
+
+
 
 
 Further readings on London climate:
