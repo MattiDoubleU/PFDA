@@ -82,6 +82,11 @@ Storm Emma:
 https://www.met.ie/cms/assets/uploads/2019/02/EmmaReport2019.pdf
 
 
+UK data
+
+https://www.metoffice.gov.uk/research/climate/maps-and-data/location-specific-long-term-averages/gcpv7fnqu
+
+
 
 
 Further readings on London climate:
@@ -105,8 +110,11 @@ Additional sources:
 
 https://www.geeksforgeeks.org/rainfall-prediction-using-machine-learning-python/
 
+Annual Climate Statement for 2023
 
+Warmest year on record by a large margin, above average rainfall
 
+https://www.met.ie/annual-climate-statement-for-2023
 
 Athenry dataset: 
 
