@@ -39,9 +39,4 @@ The London dataset was downloaded from: https://github.com/pc1991/London-Weather
 
 4. Referencing style:
 
-The referencing style chosen for this project is MLA in the Jupyter Notebook: Author(s). "Title of Web Page." Website Title, Publisher (if different from website title), Date of Publication, URL. . 
-
-
-
-
-
+The referencing style chosen for this project is MLA in the Jupyter Notebook: Author(s). "Title of Web Page." Website Title, Publisher (if different from website title), Date of Publication, URL. 
