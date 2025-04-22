@@ -38,9 +38,9 @@ Summary: I will skip Task 1 for obvious reasons and briefly summarize Task 2: I 
 
 ### References:
 
-https://stackoverflow.com/questions/36692861/avoiding-error-from-pd-to-datetime-in-pandas
-https://matplotlib.org/stable/api/_as_gen/matplotlib.figure.Figure.autofmt_xdate.html
-https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.set_major_formatter.html
+- https://stackoverflow.com/questions/36692861/avoiding-error-from-pd-to-datetime-in-pandas
+- https://matplotlib.org/stable/api/_as_gen/matplotlib.figure.Figure.autofmt_xdate.html
+- https://matplotlib.org/stable/api/_as_gen/matplotlib.axis.Axis.set_major_formatter.html
 
 ## Assignment 3 - Domains:
 
@@ -64,11 +64,11 @@ Summary: Again PANDAS and Matplotlib were my go-to libraries for this assignment
 
 ### References:
 
-https://www.geeksforgeeks.org/applying-lambda-functions-to-pandas-dataframe/
-https://oregoom.com/en/python/lambda/
-https://www.freecodecamp.org/news/how-to-split-a-string-in-python/
-https://docs.python.org/3/tutorial/datastructures.html#more-on-lists
-https://matplotlib.org/stable/gallery/pie_and_polar_charts/pie_features.html
+- https://www.geeksforgeeks.org/applying-lambda-functions-to-pandas-dataframe/
+- https://oregoom.com/en/python/lambda/
+- https://www.freecodecamp.org/news/how-to-split-a-string-in-python/
+- https://docs.python.org/3/tutorial/datastructures.html#more-on-lists
+- https://matplotlib.org/stable/gallery/pie_and_polar_charts/pie_features.html
 
 ## Assignment 4 - Risk:
 
@@ -107,11 +107,11 @@ Summary: It was clear that I needed to use **functions**, **control flow**, **li
 
 ### References:
 
-https://docs.python.org/3/tutorial/controlflow.html
-https://matplotlib.org/stable/users/explain/animations/animations.html
-https://stackoverflow.com/questions/72654607/userwarning-animation-was-deleted-without-rendering-anything
-https://numpy.org/doc/stable/reference/generated/numpy.bincount.html
-https://numpy.org/doc/stable/reference/generated/numpy.arange.html
+- https://docs.python.org/3/tutorial/controlflow.html
+- https://matplotlib.org/stable/users/explain/animations/animations.html
+- https://stackoverflow.com/questions/72654607/userwarning-animation-was-deleted-without-rendering-anything
+- https://numpy.org/doc/stable/reference/generated/numpy.bincount.html
+- https://numpy.org/doc/stable/reference/generated/numpy.arange.html
 
 ## Assignment 5 - Knock airport Weather:
 
@@ -146,12 +146,12 @@ Summary: For this assignment I used the Seaborn library which I haven't used for
 
 ### References:
 
-https://www.statology.org/seaborn-plot-multiple-lines/
-https://www.dataquest.io/blog/tutorial-time-series-analysis-with-pandas/
-https://stackoverflow.com/questions/21030171/how-get-monthly-mean-in-pandas-using-groupby
-https://www.slingacademy.com/article/pandas-mastering-dataframe-groupby-method-8-examples/
-https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.set_index.html
-https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.T.html#pandas.DataFrame.T
-https://stackoverflow.com/questions/20625582/how-to-deal-with-settingwithcopywarning-in-pandas
-https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.gca.html
+- https://www.statology.org/seaborn-plot-multiple-lines/
+- https://www.dataquest.io/blog/tutorial-time-series-analysis-with-pandas/
+- https://stackoverflow.com/questions/21030171/how-get-monthly-mean-in-pandas-using-groupby
+- https://www.slingacademy.com/article/pandas-mastering-dataframe-groupby-method-8-examples/
+- https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.set_index.html
+- https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.T.html#pandas.DataFrame.T
+- https://stackoverflow.com/questions/20625582/how-to-deal-with-settingwithcopywarning-in-pandas
+- https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.gca.html
 
